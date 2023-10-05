@@ -1,0 +1,4 @@
+Fazer feature engneering das stats de garagem;
+Fazer um gridselect dos hiperparaentros da Linear Regression.
+Testar pipelines melhores; *Não tem pipeline 
+Testar outros modelos de Linear Regression;
